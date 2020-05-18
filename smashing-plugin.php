@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: Smashing Plugin
-	Description: This is for updating your Wordpress plugin.
-	Version: 3.0.0
+	Plugin Name: Bureau Vet test plugin
+	Description: Dit is een update, :D
+	Version: 4.0.0
 	Author: Sjardo
 	Author URI: http://www.sjardo.com
 */
