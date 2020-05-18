@@ -2,8 +2,8 @@
 /*
 	Plugin Name: Smashing Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 2.0.0
-	Author: Matthew Ray
+	Version: 1.0.0
+	Author: Sjardo
 	Author URI: http://www.matthewray.com
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
