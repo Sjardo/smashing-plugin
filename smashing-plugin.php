@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Bureau Vet test plugin
 	Description: Dit is een update3, :D
-	Version: 8.0.1
+	Version: 8.0.2
 	Author: Sjardo
 	Author URI: http://www.sjardo.com
 */
